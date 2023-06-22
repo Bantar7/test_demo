@@ -1,0 +1,7 @@
+Step 6:
+Go to the folder where "test" is created and create a text document named "demo." Open "demo" and put any content, like "Hello Simplilearn." Save and close the file.
+
+Step 7:
+Enter the Git bash interface and type in the following command to check the status:
+
+$ git status
